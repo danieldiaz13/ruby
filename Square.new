@@ -1,0 +1,6 @@
+Square.new(
+  x: 100, y: 200,
+  size: 125,
+  color: 'blue',
+  z: 10
+)
